@@ -1,0 +1,40 @@
+_repo: The-Moon-Pool_765
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Merritt, Abraham
+    alias: Merritt, A. (Abraham)
+    birthdate: 1884
+    deathdate: 1943
+    gutenberg_agent_id: '403'
+    url: http://www.gutenberg.org/2009/agents/403
+    wikipedia: http://en.wikipedia.org/wiki/Abraham_Merritt
+description: "The Moon Pool is a fantasy novel by Abraham Merritt (1884–1943). It\
+  \ originally appeared as two short stories in All-Story Weekly: \"The Moon Pool\"\
+  \ (1918) and its sequel, \"Conquest of the Moon Pool\" (1919). These were then reworked\
+  \ into a novel released in 1919. The protagonist, Dr. Goodwin, would later appear\
+  \ in Merritt's second novel The Metal Monster (1920).\nAlthough Merritt did not\
+  \ invent the \"lost world\" novel—he followed in the footsteps of Bulwer-Lytton,\
+  \ Conan Doyle, Burroughs, and others—this work extended the tradition.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '1996-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '765'
+  wikidata: Q7752160
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Geographical myths -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Botanists -- Fiction'
+- !lcsh 'Oceania -- Fiction'
+- GITenberg
+title: The Moon Pool
+url: http://www.gutenberg.org/ebooks/765
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Moon_Pool
